@@ -1,5 +1,6 @@
 import { applyMiddleware, createStore, combineReducers } from 'redux'
-import { AsyncStorage as storage } from 'react-native'
+// import { AsyncStorage as storage } from 'react-native'
+import AsyncStorage from '@react-native-async-storage/async-storage'
 import thunk from 'redux-thunk'
 import createSagaMiddleware from 'redux-saga'
 import { call, all, spawn } from 'redux-saga/effects'
@@ -24,10 +25,9 @@ import VersionHistoryReducer from './reducers/versionHistory'
 import cloudReducer from './reducers/cloud'
 import upgradeToNewBhr from './reducers/upgradeToNewBhr'
 
-
 const config = {
   key: 'root', // key is required
-  storage, // storage is now required
+  storage: AsyncStorage, // storage is now required
   blacklist: [ 'setupAndAuth', 'loaders' ],
 }
 
