@@ -548,13 +548,13 @@
         "3": "Erreur réseau, veuillez vérifier votre connexion Internet.",
         "7": "Il se peut que vous ayez appuyé trop de fois. Veuillez réessayer après quelque temps.",
         "9": "Vous n'êtes pas connecté à votre compte iCloud. Veuillez vous connecter à partir des paramètres de votre téléphone.",
-        "default": "Nous avons rencontré une erreur non standard. Veuillez réessayer après un certain temps ou contactez"
+        "default": "Oops!! There seems to be a problem with the network. Please try after sometime."
     },
     "driveErrors": {
         "17": "Échec de la connexion à votre Google Drive. Veuillez essayer après un certain temps.",
         "Errorconnecting": "Erreur de connexion avec le serveur. Veuillez réessayer après un certain temps.",
         "10": "Une erreur technique s'est produite. Cela ne peut pas être rectifié de votre côté. Veuillez contacter notre support.",
-        "13": "Nous avons rencontré une erreur non standard. Veuillez réessayer après un certain temps",
+        "13": "We encountered a error. Please try again after sometime",
         "8": "Google Drive est temporairement indisponible. Veuillez réessayer",
         "5": "Nom de compte incorrect. Veuillez utiliser le nom de compte utilisé lors de la configuration du portefeuille.",
         "7": "Une erreur réseau s'est produite. Veuillez vérifier votre connexion et réessayer.",
@@ -567,6 +567,6 @@
         "30": "Veuillez vérifier l'authentification avec votre compte Google dans les paramètres et réessayer.",
         "errorinuploadingdata": "Erreur lors du téléchargement des données. Veuillez réessayer.",
         "12501": "Nous vous recommandons de vous connecter car cela vous permet de sauvegarder facilement votre portefeuille sur votre cloud personnel.",
-        "default": "Nous avons rencontré une erreur non standard. Veuillez réessayer après un certain temps ou contactez"
+        "default": "We encountered a error. Please try again after sometime or contact"
     }
 }
