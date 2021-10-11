@@ -548,13 +548,13 @@
         "3": "Netzwerkfehler, bitte überprüfe deine Internetverbindung.",
         "7": "Möglicherweise hast Du zu oft auf \"angefordert\" gedrückt. Bitte versuchen Sie es nach einiger Zeit noch einmal.",
         "9": "Du bist nicht in deinem iCloud-Konto angemeldet. Bitte melde dich über deine Telefoneinstellungen an.",
-        "default": "Wir sind auf einen nicht standardmäßigen Fehler gestoßen. Bitte versuche es nach einiger Zeit erneut oder kontaktiere"
+        "default": "Oops!! There seems to be a problem with the network. Please try after sometime."
     },
     "driveErrors": {
         "17": "Es konnte keine Verbindung zu deinem Google Drive hergestellt werden. Bitte versuche es nach einiger Zeit noch einmal.",
         "Errorconnecting": "Fehler beim Verbinden mit dem Server. Bitte versuche es nach einiger Zeit noch einmal.",
         "10": "Es ist ein technischer Fehler aufgetreten. Dieser kann von deiner Seite aus nicht behoben werden. Bitte kontaktiere unseren Support.",
-        "13": "Wir sind auf einen nicht standardmäßigen Fehler gestoßen. Bitte versuche es nach einiger Zeit erneut",
+        "13": "We encountered a error. Please try again after sometime",
         "8": "Google Drive ist vorübergehend nicht verfügbar. Bitte versuche es erneut",
         "5": "Falscher Kontoname. Bitte benutze den Kontonamen, den du ursprünglich beim Einrichten der Wallet verwendet hast.",
         "7": "Ein Netzwerkfehler ist aufgetreten. Bitte überprüfe deine Verbindung und versuche es erneut.",
@@ -567,6 +567,6 @@
         "30": "Bitte überprüfe die Authentifizierung mit deinem Google-Konto in den Einstellungen und versuche es erneut.",
         "errorinuploadingdata": "Fehler beim Hochladen von Daten. Bitte versuche es erneut.",
         "12501": "Wir empfehlen dir, dich anzumelden, denn so kannst du ganz einfach eine Sicherungskopie deiner Wallet in deiner persönlichen Cloud erstellen.",
-        "default": "Es ist ein nicht standardisierter Fehler aufgetreten. Bitte versuche es nach einiger Zeit erneut oder kontaktiere"
+        "default": "We encountered a error. Please try again after sometime or contact"
     }
 }
