@@ -548,13 +548,13 @@
         "3": "Erro de rede, verifique sua conexão com a Internet.",
         "7": "Você pode ter pressionado solicitado muitas vezes. Por favor, tente depois de algum tempo.",
         "9": "Você não está conectado à sua conta do iCloud. Faça login nas configurações do seu telefone.",
-        "default": "Encontramos um erro fora do padrão. Por favor, tente novamente depois de algum tempo ou entre em contato"
+        "default": "Oops!! There seems to be a problem with the network. Please try after sometime."
     },
     "driveErrors": {
         "17": "Falha ao conectar ao seu Google Drive. Por favor, tente depois de algum tempo.",
         "Errorconnecting": "Erro ao conectar com o servidor. Por favor tente novamente depois de algum tempo.",
         "10": "Ocorreu um erro técnico. Isso não pode ser corrigido por você. Entre em contato com nosso suporte.",
-        "13": "Encontramos um erro fora do padrão. Por favor tente novamente depois de algum tempo",
+        "13": "We encountered a error. Please try again after sometime",
         "8": "O Google Drive está temporariamente indisponível. Por favor, tente novamente",
         "5": "Nome de conta incorreto. Use o nome da conta que você usou originalmente ao configurar a carteira.",
         "7": "Ocorreu um erro de rede. Por favor verifique sua conexão e tente novamente.",
@@ -567,6 +567,6 @@
         "30": "Verifique a autenticação com sua conta do Google nas configurações e tente novamente.",
         "errorinuploadingdata": "Erro ao enviar dados. Por favor, tente novamente.",
         "12501": "Recomendamos fazer login, pois isso permite que você faça backup de sua carteira facilmente em sua nuvem pessoal.",
-        "default": "Encontramos um erro fora do padrão. Por favor, tente novamente depois de algum tempo ou entre em contato"
+        "default": "We encountered a error. Please try again after sometime or contact"
     }
 }
