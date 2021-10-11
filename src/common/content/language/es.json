@@ -548,13 +548,13 @@
         "3": "Error de red, verifique su conexión a Internet.",
         "7": "Es posible que haya presionado solicitado demasiadas veces. Inténtelo después de algún tiempo.",
         "9": "No ha iniciado sesión en su cuenta de iCloud. Inicie sesión desde la configuración de su teléfono.",
-        "default": "Encontramos un error no estándar. Inténtelo de nuevo después de algún tiempo o póngase en contacto con"
+        "default": "Oops!! There seems to be a problem with the network. Please try after sometime."
     },
     "driveErrors": {
         "17": "No se pudo conectar a su Google Drive. Inténtelo después de algún tiempo.",
         "Errorconnecting": "Error al conectar con el servidor. Inténtelo de nuevo después de algún tiempo.",
         "10": "Ocurrió un error técnico. Esto no se puede rectificar por su parte. Póngase en contacto con nuestro soporte.",
-        "13": "Encontramos un error no estándar. Inténtelo de nuevo después de algún tiempo.",
+        "13": "We encountered a error. Please try again after sometime",
         "8": "Google Drive no está disponible temporalmente. Inténtalo de nuevo",
         "5": "Nombre de cuenta incorrecto. Utilice el nombre de cuenta que utilizó originalmente al configurar la billetera.",
         "7": "Ocurrió un error de red. Por favor, compruebe la conexión y vuelva a intentarlo.",
@@ -567,6 +567,6 @@
         "30": "Verifique la autenticación con su cuenta de Google en la configuración y vuelva a intentarlo.",
         "errorinuploadingdata": "Error al cargar datos. Vuelva a intentarlo.",
         "12501": "Recomendamos iniciar sesión, ya que le permite realizar una copia de seguridad de su billetera en su nube personal.",
-        "default": "Encontramos un error no estándar. Inténtelo de nuevo después de algún tiempo o póngase en contacto con"
+        "default": "We encountered a error. Please try again after sometime or contact"
     }
 }
