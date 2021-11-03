@@ -64,9 +64,9 @@
         "enter_your": "入力してください",
         "existingPasscode": "パスワードを",
         "passcode": "パスコード",
-        "tos": "Terms of Service",
-        "tos_agree": "By proceeding to the next step, you agree to our ",
-        "Incorrect": "Incorrect Passcode, Try Again!",
+        "tos": "利用規約",
+        "tos_agree": "この先に進むことで、同意したものとみなします。",
+        "Incorrect": "パスワードが間違っています。再度入力してください。",
         "loaderMessages": [
             {
                 "heading": "Savings Account",
