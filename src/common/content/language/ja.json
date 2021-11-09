@@ -79,18 +79,18 @@
                 "subText": ""
             },
             {
-                "heading": "Friends & Family",
+                "heading": "友人及び家族",
                 "text": "Add contacts to Hexa and send sats w/o asking for their wallet address every time",
                 "subText": ""
             },
             {
-                "heading": "Donation Accounts",
-                "text": "Start receiving donations directly in your Hexa Wallet, from anywhere in the world",
+                "heading": "寄付口座",
+                "text": "世界中のどこからでも寄付を直接受け取ることができます",
                 "subText": ""
             },
             {
-                "heading": "Satoshis or Sats",
-                "text": "1 bitcoin = 100 million satoshis or sats",
+                "heading": "Satoshis もしくは sats",
+                "text": "1ビットコイン = 1億 Satoshis or sats",
                 "subText": "Hexa uses sats to make using bitcoin easier"
             }
         ],
